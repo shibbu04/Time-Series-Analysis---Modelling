@@ -12,7 +12,6 @@ This R Shiny application provides a comprehensive Time Series Analytics Dashboar
 - [Dashboard Sections](#-dashboard-sections)
 - [Libraries Used](#-libraries-used)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
